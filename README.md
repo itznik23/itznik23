@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Hello, I'm Nikolas
-<a href="https:linkedin.com/in/nikolas-henshaw"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nikolas-henshaw-98a2212b3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 

@@ -2,14 +2,11 @@
 # Hello, I'm Nikolas
 <a href="https://www.linkedin.com/in/nikolas-henshaw-98a2212b3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a current cybersecurity college student with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as a cybersecurity student has been fueled by a passion for technology and a desire to grow in the field. I aspire to start in a help desk role to build a strong foundation in IT support and problem-solving. From there, I aim to advance into digital forensics and eventually become a security analyst, protecting systems and investigating cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -47,7 +44,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://coursera.org/share/1ea5f5f34e5bcad6b47b739c1bd247f3" target="_blank">
   <img src="https://img.shields.io/badge/Google%20IT%20Support%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Certificate Badge" />

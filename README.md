@@ -49,7 +49,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://coursera.org/share/1ea5f5f34e5bcad6b47b739c1bd247f3" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20IT%20Support%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Certificate Badge" />
+</a>
+
 <a href="https://coursera.org/share/79e89aa5140b4983aeb243ad7961e49b"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge" />
 </div>
 
